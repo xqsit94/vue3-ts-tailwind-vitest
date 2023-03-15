@@ -1,7 +1,7 @@
 # Vue 3 TypeScript Tailwind Starter Template (Built on Vite)
 This template should help get you started developing with Vue 3 and TypeScript in Vite. 
 ### It includes the following support:
-- TailwindCSS v3
+- TailwindCSS v3 (with Dark Mode toggle)
 - Vitest
 - Husky
 - ESLint

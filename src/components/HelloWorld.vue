@@ -7,7 +7,7 @@
 </script>
 
 <template>
-  <h1 class="text-2xl py-3">{{ msg }}</h1>
+  <h1 class="text-2xl py-3 dark:text-white">{{ msg }}</h1>
 
   <div class="card">
     <button
@@ -17,13 +17,13 @@
     >
       count is {{ count }}
     </button>
-    <p class="py-2">
+    <p class="py-2 dark:text-white">
       Edit
       <code class="text-red-400">components/HelloWorld.vue</code> to test HMR
     </p>
   </div>
 
-  <p class="py-2">
+  <p class="py-2 dark:text-white">
     Check out
     <a
       class="underline text-emerald-500"
@@ -32,7 +32,7 @@
       >create-vue</a
     >, the official Vue + Vite starter
   </p>
-  <p class="py-2">
+  <p class="py-2 dark:text-white">
     Install
     <a
       class="underline text-emerald-500"
@@ -42,5 +42,7 @@
     >
     in your IDE for a better DX
   </p>
-  <p class="py-2">Click on the Vite and Vue logos to learn more</p>
+  <p class="py-2 dark:text-white">
+    Click on the Vite and Vue logos to learn more
+  </p>
 </template>
