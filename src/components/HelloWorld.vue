@@ -25,13 +25,21 @@
 
   <p class="py-2">
     Check out
-    <a class="underline text-emerald-500" href="https://vuejs.org/guide/quick-start.html#local" target="_blank"
+    <a
+      class="underline text-emerald-500"
+      href="https://vuejs.org/guide/quick-start.html#local"
+      target="_blank"
       >create-vue</a
     >, the official Vue + Vite starter
   </p>
   <p class="py-2">
     Install
-    <a class="underline text-emerald-500" href="https://github.com/johnsoncodehk/volar" target="_blank">Volar</a>
+    <a
+      class="underline text-emerald-500"
+      href="https://github.com/johnsoncodehk/volar"
+      target="_blank"
+      >Volar</a
+    >
     in your IDE for a better DX
   </p>
   <p class="py-2">Click on the Vite and Vue logos to learn more</p>
